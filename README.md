@@ -1,1 +1,1 @@
-＃Vim-startstylish
+Vim-startstylish
